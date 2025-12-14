@@ -1,4 +1,4 @@
-# TP 5.1 – Spring Cloud Zuul API Gateway
+# TP5 – Spring Cloud Zuul API Gateway
 
 ## Description
 
